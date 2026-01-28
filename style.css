@@ -1,0 +1,52 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.Section-one, .Footer{
+    background-color: #1F2937;
+}
+
+.Header {
+
+}
+
+.Header-part-one {
+
+}
+
+.Header-part-two{
+
+}
+
+.Hero-logo-text {
+
+}
+
+.Hero{
+
+}
+
+.Hero-part-one{
+
+}
+
+.Hero-main-text{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    font-style: Roboto;
+}
+
+.Hero-secondary-text{
+
+}
+
+.Hero-part-two{
+
+}
+
+button {
+    background-color: #3882f6;
+    color: white;
+}
+
