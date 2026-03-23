@@ -9,19 +9,19 @@ body {
 }
 
 .Section-one {
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-bottom: 75px;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-bottom: 175px;
 }
 
 .Header {
     display: flex;
     justify-content: space-between;
-    padding: 10px;
+    align-items: center;
 }
 
 .Header-part-one {
-    display: flex;
+    
 }
 
 .Header-part-two ul{
@@ -38,8 +38,10 @@ body {
 }
 
 .Hero{
+    padding-top: 100px;
     display: flex;
     justify-content: space-between;
+    gap: 18px;
 }
 
 .Hero-part-one{
@@ -51,16 +53,19 @@ body {
     color: #F9FAF8;
     font-weight: 900;
     font-style: Roboto;
+    margin: 0;
 }
 
 .Hero-secondary-text{
     font-size: 18px;
     color: #e5e7eb;
+    margin: 0;
 }
 
 .Hero-part-two{
     background-color:  gray;
     flex: 1;
+    margin-left: 18px;
 }
 
 button {
