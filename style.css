@@ -1,33 +1,49 @@
 body {
     font-family: Roboto, sans-serif;
+    margin: 0;
 }
 
 .Section-one, .Footer{
     background-color: #1F2937;
+
+}
+
+.Section-one {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 75px;
 }
 
 .Header {
-
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
 }
 
 .Header-part-one {
-
+    display: flex;
 }
 
-.Header-part-two{
-
+.Header-part-two ul{
+    list-style: none;
+    display: inline-flex;
+    font-size: 18px;
+    color: #e5e7eb;
+    gap: 18px;
 }
 
 .Hero-logo-text {
-
+    font-size: 24px;
+    color: #F9FAF8;
 }
 
 .Hero{
-
+    display: flex;
+    justify-content: space-between;
 }
 
 .Hero-part-one{
-
+    flex: 1;
 }
 
 .Hero-main-text{
@@ -38,11 +54,13 @@ body {
 }
 
 .Hero-secondary-text{
-
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 .Hero-part-two{
-
+    background-color:  gray;
+    flex: 1;
 }
 
 button {
