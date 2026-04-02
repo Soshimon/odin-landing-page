@@ -154,7 +154,29 @@ button {
 .Section-four {
     padding-left: 400px;
     padding-right: 400px;
+    padding-top: 175px;
     padding-bottom: 175px;
 }
+
+.Section-four-main {
+    border-radius: 20px;
+    background-color: #3882f6;
+}
+
+.Section-four-main-part-one{
+    display: flex;
+}
+
+.big-call {
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.small-call {
+    color: #F9FAF8;
+    font-weight: 300;
+}
+
+
 
 /*End of section 4*/
