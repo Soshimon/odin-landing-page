@@ -121,3 +121,19 @@ button {
 }
 
 /*End of section 2 */
+
+/*Start of section 3*/
+
+.Section-three {
+    background-color: #E5E7EB;
+    padding-top: 175px;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-bottom: 175px;
+}
+
+.Quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
