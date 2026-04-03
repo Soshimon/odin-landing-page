@@ -84,7 +84,7 @@ button {
 .Section-two {
     padding-left: 400px;
     padding-right: 400px;
-    padding-top: 125px;
+    padding-top: 25px;
     padding-bottom: 175px;
 }
 
@@ -182,18 +182,29 @@ button {
     font-weight: 300;
 }
 
-.Section-four-main-part-two {
-    
-}
-
 .Section-four-main-part-two button{
     margin: auto;
     padding: auto;
     border: 2px solid #F9FAF8;
     border-radius: 5px;
+}
 
+/*End of section 4*/
+
+/*Start of footer*/
+
+.Footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+}
+
+.footer-text {
+    color: #E5E7EB;
+    font-size: 18px;
 }
 
 
 
-/*End of section 4*/
+/*End of footer*/
