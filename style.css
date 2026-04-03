@@ -137,7 +137,6 @@ button {
     color: #1F2937;
     font-weight: 300;
     font-style: italic;
-    text-align: left;
 }
 
 .Section-three-part-two {
@@ -161,20 +160,37 @@ button {
 .Section-four-main {
     border-radius: 20px;
     background-color: #3882f6;
+
 }
 
 .Section-four-main-part-one{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 100px;
 }
 
 .big-call {
     color: #F9FAF8;
     font-weight: 900;
+    font-size: 24px;
 }
 
 .small-call {
     color: #F9FAF8;
     font-weight: 300;
+}
+
+.Section-four-main-part-two {
+    
+}
+
+.Section-four-main-part-two button{
+    margin: auto;
+    padding: auto;
+    border: 2px solid #F9FAF8;
+    border-radius: 5px;
+
 }
 
 
